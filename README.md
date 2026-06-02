@@ -1,5 +1,4 @@
-[index (1).html](https://github.com/user-attachments/files/28515860/index.1.html)
-# dejaquetepique.github.io<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
