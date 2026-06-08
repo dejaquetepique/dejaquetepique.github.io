@@ -1,4 +1,4 @@
-[surielidge_creature_map (1).html](https://github.com/user-attachments/files/28713275/surielidge_creature_map.1.html)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
